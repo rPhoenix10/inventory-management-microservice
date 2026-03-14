@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.microservice;
 
 public record InventoryItem(
     String id,
